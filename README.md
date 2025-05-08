@@ -23,8 +23,8 @@ A pretty simple pixelize shader for URP, using a RenderFeatuer.
 
 ## Contact
 
-Developed by Andrew Dioinecail.  
-Twitter: [Dioinecail](https://twitter.com/dioinecail).  
+Developed by Andrew.  
+Twitter: [Dioinecail](https://twitter.com/CptCrabhands).  
 Email: andrewdionecail@gmail.com  
   
 Feel free to ask questions!  
